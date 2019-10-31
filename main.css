@@ -34,8 +34,9 @@ p {
 }
 
 .album-art {
- scale: 76%;
- background-origin: padding-box;
+	border: solid 2px;
+	border-color: red;	
+	padding: 25px;
 }
 
 .clear {
@@ -43,20 +44,23 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	border: 7px;
+	border: solid 2px;
 	border-color: red;	
+	padding: 25px;
 }
 
 .record-label {
-color: red;
+	color: red;	
 }
 
 .track-list {
-
+	font-size: 16px
 }
 
 #about-photo {
-
+	border: solid 2px;
+	border-color: red;	
+	padding: 25px;
 }
 
 #copyright {
@@ -65,7 +69,10 @@ color:red;
 }
 
 #section-about, #section-discography, #section-equipment {
-font-size: 105%;
+	border: solid 2px;
+	border-color: red;	
+	padding: 25px;
+	margin: 10px;
 }
 
 #text-intro {
