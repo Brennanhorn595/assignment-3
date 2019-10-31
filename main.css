@@ -30,13 +30,15 @@ h3 {
 }
 
 p {
-
+line-height: 1.5em;
 }
 
 .album-art {
 	border: solid 2px;
 	border-color: red;	
 	padding: 25px;
+	float: left;
+
 }
 
 .clear {
@@ -47,6 +49,7 @@ p {
 	border: solid 2px;
 	border-color: red;	
 	padding: 25px;
+	float: left;
 }
 
 .record-label {
@@ -72,12 +75,15 @@ color:red;
 	border: solid 2px;
 	border-color: red;	
 	padding: 25px;
-	margin: 10px;
+	margin: 20px 10px;
+	align-self: auto;
 }
 
 #text-intro {
+	font-size: 1.2em;
 	color: red;
 	border: solid 2px red;
 	padding: 1em;
-	background-color: rgb(71, 70, 70);
+	background-color: rgb(50, 50, 50);
+	margin: 30px 10px;
 }
