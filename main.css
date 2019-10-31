@@ -7,13 +7,8 @@
 */
 
 body {
-<<<<<<< HEAD
 	background-color: black;
 	color: white;
-=======
-	background-color: blue;
-	color: yellow;
->>>>>>> fa9ecfc5a66f7263fe04d3a731b7e40126e9e93e
 	font-size: 16px;
 	font-family: 'Do Hyeon', sans-serif;
 }
@@ -39,12 +34,8 @@ p {
 }
 
 .album-art {
-<<<<<<< HEAD
  scale: 76%;
  background-origin: padding-box;
-=======
-
->>>>>>> fa9ecfc5a66f7263fe04d3a731b7e40126e9e93e
 }
 
 .clear {
@@ -52,20 +43,12 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-<<<<<<< HEAD
 	border: 7px;
 	border-color: red;	
 }
 
 .record-label {
 color: red;
-=======
-	
-}
-
-.record-label {
-
->>>>>>> fa9ecfc5a66f7263fe04d3a731b7e40126e9e93e
 }
 
 .track-list {
@@ -77,7 +60,6 @@ color: red;
 }
 
 #copyright {
-<<<<<<< HEAD
 font-size: 67%;
 color:red;
 }
@@ -88,15 +70,7 @@ font-size: 105%;
 
 #text-intro {
 	color: red;
-=======
- font-size: 67%
-}
-
-#section-about, #section-discography, #section-equipment {
-
-}
-
-#text-intro {
-	
->>>>>>> fa9ecfc5a66f7263fe04d3a731b7e40126e9e93e
+	border: solid 2px red;
+	padding: 1em;
+	background-color: rgb(71, 70, 70);
 }
